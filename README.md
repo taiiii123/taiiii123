@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%20to%20my%20profile&fontColor=ffffff&color=gradient)
 
-|  You are visitor  |  ![](https://komarev.com/ghpvc/?username=taiiii123)  |
-| ---- | ---- |
-
 ## ✍Learning
 
 <h3 align="left">Languages and Tools:</h3>
