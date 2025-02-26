@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%20to%20my%20profile&fontColor=ffffff&color=gradient)
 
-## ✍Learning
+## ✍️ Learning
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
