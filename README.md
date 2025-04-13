@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/taiiii123"><img src="./devcard.png" width="652" alt="taiiii123's Dev Card"/></a><p>
+<p align="center"><a href="https://app.daily.dev/taiiii123"><img src="./devcard.png" width="300" alt="taiiii123's Dev Card"/></a><p>
 
 # Hello! <img src="https://user-images.githubusercontent.com/70006535/131808211-a4f38bcd-3c6d-4e57-963c-f98c8d7de898.gif" width="30">
 
